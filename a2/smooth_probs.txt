@@ -1,4 +1,0 @@
-p(the|all) = 0.0133657351154
-p(jury|the) = 0.055204382638
-p(campaign|the) = 0.00463548251159
-p(calls|anonymous) = 0.0130486358244
