@@ -1,0 +1,55 @@
+2.
+Q: Estimate (just by eyeballing) the proportion of the word types that occurred only once in this corpus. 
+Do you think the proportion of words that occur only once would be higher or lower if we used a larger corpus 
+(e.g., all 57000 sentences in Brown)? Why or why not?
+
+The estimated proportion is around 60%. The proportion will decrease. When you introduce more data and suppose the 
+proportion of words that occur only once in the data is around 60%, words occur once in the new corpus (original data
++ introduced data) would decrease, because words occur once in the original data would also appear in the introduced 
+data. This would decrease the proportion of words that occur only once.
+
+
+
+4.
+Q: Why did all four probabilities go down in the smoothed model?
+
+Smoothing increases the sum of each row, so that the denominator is bigger than the initial. Therefore, the probability
+goes down.
+
+
+Now note that the probabilities did not all decrease by the same amount. In particular, the two probabilities 
+conditioned on ‘the’ dropped only slightly, while the other two probabilities (conditioned on ‘all’ and ‘anonymous’) 
+dropped rather dramatically. 
+Q: Why did add-α smoothing cause probabilities conditioned on ‘the’ to fall much less than these others?Why did 
+add-α smoothing cause probabilities conditioned on ‘the’ to fall much less than these others? And why is this behavior 
+(causing probabilities conditioned on ‘the’ to fall less than the others) a good thing?
+
+The training data is small, so that it's easily to go back to the corpus to see what's going on. "all the" occurs once
+in the corpus, and the initial sum of counts without smoothing is 1. In this case, add-α smoothing will largely increase
+the sum of counts and give p(the|all) a very small probability. So does "anonymous calls." However, many words may occur
+given "the", thus smoothing does not decrease the probability too much.
+
+Sometimes though the word combinations get high probability, it may occur very few times in the corpus. The sparse data
+leads to high probability, and it's not reasonable to assume that the probability is reliable in a larger corpus. In
+this case, smoothing will give sparse data a low probability to not decrease the performance of the n-gram model.
+
+
+
+6.
+Q: Which model performed worst and why might you have expected that model to have performed worst? 
+
+The unigram model performed worst. WHen applying the three language models to the toy corpus, for each sentence the unigram 
+model has the lowest probability and the highest perplexity. 
+
+Q: Did smoothing help or hurt the model’s ‘performance’ when evaluated on this corpus? Why might that be?
+
+It hurt. Smoothing will decrease the probability of every words, thus the sentence probability will go down and the 
+perplexity goes up.
+
+
+
+7.
+Q: Compare the models qualitatively based on their generation. How does each perform?
+
+All the models performed badly... The unigram model generated the worst sentences, and the unsmoothed bigram model 
+generated the best sentences.
