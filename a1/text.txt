@@ -1,0 +1,3413 @@
+[
+  {
+    "stanza": 1,
+    "lines": [
+      {
+        "lineId": "1-1",
+        "lineNum": "1",
+        "text": "Dearest creature in creation",
+        "tokens": [
+          "Dearest",
+          "creature",
+          "in",
+          "creation"
+        ],
+        "rhymeWord": "creation"
+      },
+      {
+        "lineId": "1-2",
+        "lineNum": "2",
+        "text": "Studying English pronunciation,",
+        "tokens": [
+          "Studying",
+          "English",
+          "pronunciation",
+          ","
+        ],
+        "rhymeWord": "pronunciation"
+      },
+      {
+        "lineId": "1-3",
+        "lineNum": "3",
+        "text": "I will teach you in my verse",
+        "tokens": [
+          "I",
+          "will",
+          "teach",
+          "you",
+          "in",
+          "my",
+          "verse"
+        ],
+        "rhymeWord": "verse"
+      },
+      {
+        "lineId": "1-4",
+        "lineNum": "4",
+        "text": "Sounds like corpse, corps, horse and worse.",
+        "tokens": [
+          "Sounds",
+          "like",
+          "corpse",
+          ",",
+          "corps",
+          ",",
+          "horse",
+          "and",
+          "worse",
+          "."
+        ],
+        "rhymeWord": "worse"
+      }
+    ]
+  },
+  {
+    "stanza": 2,
+    "lines": [
+      {
+        "lineId": "2-1",
+        "lineNum": "1",
+        "text": "I will keep you, Susy, busy,",
+        "tokens": [
+          "I",
+          "will",
+          "keep",
+          "you",
+          ",",
+          "Susy",
+          ",",
+          "busy",
+          ","
+        ],
+        "rhymeWord": "busy"
+      },
+      {
+        "lineId": "2-2",
+        "lineNum": "2",
+        "text": "Make your head with heat grow dizzy;",
+        "tokens": [
+          "Make",
+          "your",
+          "head",
+          "with",
+          "heat",
+          "grow",
+          "dizzy",
+          ";"
+        ],
+        "rhymeWord": "dizzy"
+      },
+      {
+        "lineId": "2-3",
+        "lineNum": "3",
+        "text": "Tear in eye, your dress you'll tear;",
+        "tokens": [
+          "Tear",
+          "in",
+          "eye",
+          ",",
+          "your",
+          "dress",
+          "you",
+          "'ll",
+          "tear",
+          ";"
+        ],
+        "rhymeWord": "tear"
+      },
+      {
+        "lineId": "2-4",
+        "lineNum": "4",
+        "text": "Queer, fair seer, hear my prayer.",
+        "tokens": [
+          "Queer",
+          ",",
+          "fair",
+          "seer",
+          ",",
+          "hear",
+          "my",
+          "prayer",
+          "."
+        ],
+        "rhymeWord": "prayer"
+      }
+    ]
+  },
+  {
+    "stanza": 3,
+    "lines": [
+      {
+        "lineId": "3-1",
+        "lineNum": "1",
+        "text": "Now I surely will not plague you",
+        "tokens": [
+          "Now",
+          "I",
+          "surely",
+          "will",
+          "not",
+          "plague",
+          "you"
+        ],
+        "rhymeWord": "you"
+      },
+      {
+        "lineId": "3-2",
+        "lineNum": "2",
+        "text": "With such words as vague and ague,",
+        "tokens": [
+          "With",
+          "such",
+          "words",
+          "as",
+          "vague",
+          "and",
+          "ague",
+          ","
+        ],
+        "rhymeWord": "ague"
+      },
+      {
+        "lineId": "3-3",
+        "lineNum": "3",
+        "text": "But be careful how you speak,",
+        "tokens": [
+          "But",
+          "be",
+          "careful",
+          "how",
+          "you",
+          "speak",
+          ","
+        ],
+        "rhymeWord": "speak"
+      },
+      {
+        "lineId": "3-4",
+        "lineNum": "4",
+        "text": "Say: gush, bush, steak, streak, break, bleak ,",
+        "tokens": [
+          "Say",
+          ":",
+          "gush",
+          ",",
+          "bush",
+          ",",
+          "steak",
+          ",",
+          "streak",
+          ",",
+          "break",
+          ",",
+          "bleak",
+          ","
+        ],
+        "rhymeWord": "bleak"
+      }
+    ]
+  },
+  {
+    "stanza": 4,
+    "lines": [
+      {
+        "lineId": "4-1",
+        "lineNum": "1",
+        "text": "Previous, precious, fuchsia, via",
+        "tokens": [
+          "Previous",
+          ",",
+          "precious",
+          ",",
+          "fuchsia",
+          ",",
+          "via"
+        ],
+        "rhymeWord": "via"
+      },
+      {
+        "lineId": "4-2",
+        "lineNum": "2",
+        "text": "Recipe, pipe, studding-sail, choir;",
+        "tokens": [
+          "Recipe",
+          ",",
+          "pipe",
+          ",",
+          "studding",
+          "-",
+          "sail",
+          ",",
+          "choir",
+          ";"
+        ],
+        "rhymeWord": "choir"
+      },
+      {
+        "lineId": "4-3",
+        "lineNum": "3",
+        "text": "Woven, oven, how and low,",
+        "tokens": [
+          "Woven",
+          ",",
+          "oven",
+          ",",
+          "how",
+          "and",
+          "low",
+          ","
+        ],
+        "rhymeWord": "low"
+      },
+      {
+        "lineId": "4-4",
+        "lineNum": "4",
+        "text": "Script, receipt, shoe, poem, toe.",
+        "tokens": [
+          "Script",
+          ",",
+          "receipt",
+          ",",
+          "shoe",
+          ",",
+          "poem",
+          ",",
+          "toe",
+          "."
+        ],
+        "rhymeWord": "toe"
+      }
+    ]
+  },
+  {
+    "stanza": 5,
+    "lines": [
+      {
+        "lineId": "5-1",
+        "lineNum": "1",
+        "text": "Say, expecting fraud and trickery:",
+        "tokens": [
+          "Say",
+          ",",
+          "expecting",
+          "fraud",
+          "and",
+          "trickery",
+          ":"
+        ],
+        "rhymeWord": "trickery"
+      },
+      {
+        "lineId": "5-2",
+        "lineNum": "2",
+        "text": "Daughter, laughter and Terpsichore,",
+        "tokens": [
+          "Daughter",
+          ",",
+          "laughter",
+          "and",
+          "Terpsichore",
+          ","
+        ],
+        "rhymeWord": "Terpsichore"
+      },
+      {
+        "lineId": "5-3",
+        "lineNum": "3",
+        "text": "Branch, ranch, measles, topsails, aisles,",
+        "tokens": [
+          "Branch",
+          ",",
+          "ranch",
+          ",",
+          "measles",
+          ",",
+          "topsails",
+          ",",
+          "aisles",
+          ","
+        ],
+        "rhymeWord": "aisles"
+      },
+      {
+        "lineId": "5-4",
+        "lineNum": "4",
+        "text": "Missiles, similes, reviles.",
+        "tokens": [
+          "Missiles",
+          ",",
+          "similes",
+          ",",
+          "reviles",
+          "."
+        ],
+        "rhymeWord": "reviles"
+      }
+    ]
+  },
+  {
+    "stanza": 6,
+    "lines": [
+      {
+        "lineId": "6-1",
+        "lineNum": "1",
+        "text": "Wholly, holly, signal, signing,",
+        "tokens": [
+          "Wholly",
+          ",",
+          "holly",
+          ",",
+          "signal",
+          ",",
+          "signing",
+          ","
+        ],
+        "rhymeWord": "signing"
+      },
+      {
+        "lineId": "6-2",
+        "lineNum": "2",
+        "text": "Same, examining, but mining,",
+        "tokens": [
+          "Same",
+          ",",
+          "examining",
+          ",",
+          "but",
+          "mining",
+          ","
+        ],
+        "rhymeWord": "mining"
+      },
+      {
+        "lineId": "6-3",
+        "lineNum": "3",
+        "text": "Scholar, vicar, and cigar,",
+        "tokens": [
+          "Scholar",
+          ",",
+          "vicar",
+          ",",
+          "and",
+          "cigar",
+          ","
+        ],
+        "rhymeWord": "cigar"
+      },
+      {
+        "lineId": "6-4",
+        "lineNum": "4",
+        "text": "Solar, mica, war and far.",
+        "tokens": [
+          "Solar",
+          ",",
+          "mica",
+          ",",
+          "war",
+          "and",
+          "far",
+          "."
+        ],
+        "rhymeWord": "far"
+      }
+    ]
+  },
+  {
+    "stanza": 7,
+    "lines": [
+      {
+        "lineId": "7-1",
+        "lineNum": "1",
+        "text": "One, anemone, Balmoral,",
+        "tokens": [
+          "One",
+          ",",
+          "anemone",
+          ",",
+          "Balmoral",
+          ","
+        ],
+        "rhymeWord": "Balmoral"
+      },
+      {
+        "lineId": "7-2",
+        "lineNum": "2",
+        "text": "Kitchen, lichen, laundry, laurel.",
+        "tokens": [
+          "Kitchen",
+          ",",
+          "lichen",
+          ",",
+          "laundry",
+          ",",
+          "laurel",
+          "."
+        ],
+        "rhymeWord": "laurel"
+      },
+      {
+        "lineId": "7-3",
+        "lineNum": "3",
+        "text": "Gertrude, German, wind and wind,",
+        "tokens": [
+          "Gertrude",
+          ",",
+          "German",
+          ",",
+          "wind",
+          "and",
+          "wind",
+          ","
+        ],
+        "rhymeWord": "wind"
+      },
+      {
+        "lineId": "7-4",
+        "lineNum": "4",
+        "text": "Beau, kind, kindred, queue, mankind,",
+        "tokens": [
+          "Beau",
+          ",",
+          "kind",
+          ",",
+          "kindred",
+          ",",
+          "queue",
+          ",",
+          "mankind",
+          ","
+        ],
+        "rhymeWord": "mankind"
+      }
+    ]
+  },
+  {
+    "stanza": 8,
+    "lines": [
+      {
+        "lineId": "8-1",
+        "lineNum": "1",
+        "text": "Have you ever yet endeavoured",
+        "tokens": [
+          "Have",
+          "you",
+          "ever",
+          "yet",
+          "endeavoured"
+        ],
+        "rhymeWord": "endeavoured"
+      },
+      {
+        "lineId": "8-2",
+        "lineNum": "2",
+        "text": "To pronounce revered and severed,",
+        "tokens": [
+          "To",
+          "pronounce",
+          "revered",
+          "and",
+          "severed",
+          ","
+        ],
+        "rhymeWord": "severed"
+      },
+      {
+        "lineId": "8-3",
+        "lineNum": "3",
+        "text": "Demon, lemon, ghoul, foul, soul,",
+        "tokens": [
+          "Demon",
+          ",",
+          "lemon",
+          ",",
+          "ghoul",
+          ",",
+          "foul",
+          ",",
+          "soul",
+          ","
+        ],
+        "rhymeWord": "soul"
+      },
+      {
+        "lineId": "8-4",
+        "lineNum": "4",
+        "text": "Peter, petrol and patrol?",
+        "tokens": [
+          "Peter",
+          ",",
+          "petrol",
+          "and",
+          "patrol",
+          "?"
+        ],
+        "rhymeWord": "patrol"
+      }
+    ]
+  },
+  {
+    "stanza": 9,
+    "lines": [
+      {
+        "lineId": "9-1",
+        "lineNum": "1",
+        "text": "Billet does not end like ballet;",
+        "tokens": [
+          "Billet",
+          "does",
+          "not",
+          "end",
+          "like",
+          "ballet",
+          ";"
+        ],
+        "rhymeWord": "ballet"
+      },
+      {
+        "lineId": "9-2",
+        "lineNum": "2",
+        "text": "Bouquet, wallet, mallet, chalet.",
+        "tokens": [
+          "Bouquet",
+          ",",
+          "wallet",
+          ",",
+          "mallet",
+          ",",
+          "chalet",
+          "."
+        ],
+        "rhymeWord": "chalet"
+      },
+      {
+        "lineId": "9-3",
+        "lineNum": "3",
+        "text": "Blood and flood are not like food,",
+        "tokens": [
+          "Blood",
+          "and",
+          "flood",
+          "are",
+          "not",
+          "like",
+          "food",
+          ","
+        ],
+        "rhymeWord": "food"
+      },
+      {
+        "lineId": "9-4",
+        "lineNum": "4",
+        "text": "Nor is mould like should and would.",
+        "tokens": [
+          "Nor",
+          "is",
+          "mould",
+          "like",
+          "should",
+          "and",
+          "would",
+          "."
+        ],
+        "rhymeWord": "would"
+      }
+    ]
+  },
+  {
+    "stanza": 10,
+    "lines": [
+      {
+        "lineId": "10-1",
+        "lineNum": "1",
+        "text": "Banquet is not nearly parquet,",
+        "tokens": [
+          "Banquet",
+          "is",
+          "not",
+          "nearly",
+          "parquet",
+          ","
+        ],
+        "rhymeWord": "parquet"
+      },
+      {
+        "lineId": "10-2",
+        "lineNum": "2",
+        "text": "Which exactly rhymes with khaki.",
+        "tokens": [
+          "Which",
+          "exactly",
+          "rhymes",
+          "with",
+          "khaki",
+          "."
+        ],
+        "rhymeWord": "khaki"
+      },
+      {
+        "lineId": "10-3",
+        "lineNum": "3",
+        "text": "Discount, viscount, load and broad,",
+        "tokens": [
+          "Discount",
+          ",",
+          "viscount",
+          ",",
+          "load",
+          "and",
+          "broad",
+          ","
+        ],
+        "rhymeWord": "broad"
+      },
+      {
+        "lineId": "10-4",
+        "lineNum": "4",
+        "text": "Toward, to forward, to reward,",
+        "tokens": [
+          "Toward",
+          ",",
+          "to",
+          "forward",
+          ",",
+          "to",
+          "reward",
+          ","
+        ],
+        "rhymeWord": "reward"
+      }
+    ]
+  },
+  {
+    "stanza": 11,
+    "lines": [
+      {
+        "lineId": "11-1",
+        "lineNum": "1",
+        "text": "Ricocheted and crocheting, croquet?",
+        "tokens": [
+          "Ricocheted",
+          "and",
+          "crocheting",
+          ",",
+          "croquet",
+          "?"
+        ],
+        "rhymeWord": "croquet"
+      },
+      {
+        "lineId": "11-2",
+        "lineNum": "2",
+        "text": "Right! Your pronunciation's OK.",
+        "tokens": [
+          "Right",
+          "!",
+          "Your",
+          "pronunciation",
+          "'s",
+          "OK",
+          "."
+        ],
+        "rhymeWord": "OK"
+      },
+      {
+        "lineId": "11-3",
+        "lineNum": "3",
+        "text": "Rounded, wounded, grieve and sieve,",
+        "tokens": [
+          "Rounded",
+          ",",
+          "wounded",
+          ",",
+          "grieve",
+          "and",
+          "sieve",
+          ","
+        ],
+        "rhymeWord": "sieve"
+      },
+      {
+        "lineId": "11-4",
+        "lineNum": "4",
+        "text": "Friend and fiend, alive and live.",
+        "tokens": [
+          "Friend",
+          "and",
+          "fiend",
+          ",",
+          "alive",
+          "and",
+          "live",
+          "."
+        ],
+        "rhymeWord": "live"
+      }
+    ]
+  },
+  {
+    "stanza": 12,
+    "lines": [
+      {
+        "lineId": "12-1",
+        "lineNum": "1",
+        "text": "Is your r correct in higher?",
+        "tokens": [
+          "Is",
+          "your",
+          "r",
+          "correct",
+          "in",
+          "higher",
+          "?"
+        ],
+        "rhymeWord": "higher"
+      },
+      {
+        "lineId": "12-2",
+        "lineNum": "2",
+        "text": "Keats asserts it rhymes Thalia.",
+        "tokens": [
+          "Keats",
+          "asserts",
+          "it",
+          "rhymes",
+          "Thalia",
+          "."
+        ],
+        "rhymeWord": "Thalia"
+      },
+      {
+        "lineId": "12-3",
+        "lineNum": "3",
+        "text": "Hugh, but hug, and hood, but hoot,",
+        "tokens": [
+          "Hugh",
+          ",",
+          "but",
+          "hug",
+          ",",
+          "and",
+          "hood",
+          ",",
+          "but",
+          "hoot",
+          ","
+        ],
+        "rhymeWord": "hoot"
+      },
+      {
+        "lineId": "12-4",
+        "lineNum": "4",
+        "text": "Buoyant, minute, but minute.",
+        "tokens": [
+          "Buoyant",
+          ",",
+          "minute",
+          ",",
+          "but",
+          "minute",
+          "."
+        ],
+        "rhymeWord": "minute"
+      }
+    ]
+  },
+  {
+    "stanza": 13,
+    "lines": [
+      {
+        "lineId": "13-1",
+        "lineNum": "1",
+        "text": "Say abscission with precision,",
+        "tokens": [
+          "Say",
+          "abscission",
+          "with",
+          "precision",
+          ","
+        ],
+        "rhymeWord": "precision"
+      },
+      {
+        "lineId": "13-2",
+        "lineNum": "2",
+        "text": "Now: position and transition;",
+        "tokens": [
+          "Now",
+          ":",
+          "position",
+          "and",
+          "transition",
+          ";"
+        ],
+        "rhymeWord": "transition"
+      },
+      {
+        "lineId": "13-3",
+        "lineNum": "3",
+        "text": "Would it tally with my rhyme",
+        "tokens": [
+          "Would",
+          "it",
+          "tally",
+          "with",
+          "my",
+          "rhyme"
+        ],
+        "rhymeWord": "rhyme"
+      },
+      {
+        "lineId": "13-4",
+        "lineNum": "4",
+        "text": "If I mentioned paradigm?",
+        "tokens": [
+          "If",
+          "I",
+          "mentioned",
+          "paradigm",
+          "?"
+        ],
+        "rhymeWord": "paradigm"
+      }
+    ]
+  },
+  {
+    "stanza": 14,
+    "lines": [
+      {
+        "lineId": "14-1",
+        "lineNum": "1",
+        "text": "Twopence, threepence, tease are easy,",
+        "tokens": [
+          "Twopence",
+          ",",
+          "threepence",
+          ",",
+          "tease",
+          "are",
+          "easy",
+          ","
+        ],
+        "rhymeWord": "easy"
+      },
+      {
+        "lineId": "14-2",
+        "lineNum": "2",
+        "text": "But cease, crease, grease and greasy?",
+        "tokens": [
+          "But",
+          "cease",
+          ",",
+          "crease",
+          ",",
+          "grease",
+          "and",
+          "greasy",
+          "?"
+        ],
+        "rhymeWord": "greasy"
+      },
+      {
+        "lineId": "14-3",
+        "lineNum": "3",
+        "text": "Cornice, nice, valise, revise,",
+        "tokens": [
+          "Cornice",
+          ",",
+          "nice",
+          ",",
+          "valise",
+          ",",
+          "revise",
+          ","
+        ],
+        "rhymeWord": "revise"
+      },
+      {
+        "lineId": "14-4",
+        "lineNum": "4",
+        "text": "Rabies, but lullabies.",
+        "tokens": [
+          "Rabies",
+          ",",
+          "but",
+          "lullabies",
+          "."
+        ],
+        "rhymeWord": "lullabies"
+      }
+    ]
+  },
+  {
+    "stanza": 15,
+    "lines": [
+      {
+        "lineId": "15-1",
+        "lineNum": "1",
+        "text": "Of such puzzling words as nauseous,",
+        "tokens": [
+          "Of",
+          "such",
+          "puzzling",
+          "words",
+          "as",
+          "nauseous",
+          ","
+        ],
+        "rhymeWord": "nauseous"
+      },
+      {
+        "lineId": "15-2",
+        "lineNum": "2",
+        "text": "Rhyming well with cautious, tortious,",
+        "tokens": [
+          "Rhyming",
+          "well",
+          "with",
+          "cautious",
+          ",",
+          "tortious",
+          ","
+        ],
+        "rhymeWord": "tortious"
+      },
+      {
+        "lineId": "15-3",
+        "lineNum": "3",
+        "text": "You'll envelop lists, I hope,",
+        "tokens": [
+          "You",
+          "'ll",
+          "envelop",
+          "lists",
+          ",",
+          "I",
+          "hope",
+          ","
+        ],
+        "rhymeWord": "hope"
+      },
+      {
+        "lineId": "15-4",
+        "lineNum": "4",
+        "text": "In a linen envelope.",
+        "tokens": [
+          "In",
+          "a",
+          "linen",
+          "envelope",
+          "."
+        ],
+        "rhymeWord": "envelope"
+      }
+    ]
+  },
+  {
+    "stanza": 16,
+    "lines": [
+      {
+        "lineId": "16-1",
+        "lineNum": "1",
+        "text": "Liberty, library, heave and heaven,",
+        "tokens": [
+          "Liberty",
+          ",",
+          "library",
+          ",",
+          "heave",
+          "and",
+          "heaven",
+          ","
+        ],
+        "rhymeWord": "heaven"
+      },
+      {
+        "lineId": "16-2",
+        "lineNum": "2",
+        "text": "Rachel, loch, moustache, eleven.",
+        "tokens": [
+          "Rachel",
+          ",",
+          "loch",
+          ",",
+          "moustache",
+          ",",
+          "eleven",
+          "."
+        ],
+        "rhymeWord": "eleven"
+      },
+      {
+        "lineId": "16-3",
+        "lineNum": "3",
+        "text": "We say hallowed, but allowed,",
+        "tokens": [
+          "We",
+          "say",
+          "hallowed",
+          ",",
+          "but",
+          "allowed",
+          ","
+        ],
+        "rhymeWord": "allowed"
+      },
+      {
+        "lineId": "16-4",
+        "lineNum": "4",
+        "text": "People, leopard, towed but vowed.",
+        "tokens": [
+          "People",
+          ",",
+          "leopard",
+          ",",
+          "towed",
+          "but",
+          "vowed",
+          "."
+        ],
+        "rhymeWord": "vowed"
+      }
+    ]
+  },
+  {
+    "stanza": 17,
+    "lines": [
+      {
+        "lineId": "17-1",
+        "lineNum": "1",
+        "text": "Mark the difference, moreover,",
+        "tokens": [
+          "Mark",
+          "the",
+          "difference",
+          ",",
+          "moreover",
+          ","
+        ],
+        "rhymeWord": "moreover"
+      },
+      {
+        "lineId": "17-2",
+        "lineNum": "2",
+        "text": "Between mover, plover, Dover.",
+        "tokens": [
+          "Between",
+          "mover",
+          ",",
+          "plover",
+          ",",
+          "Dover",
+          "."
+        ],
+        "rhymeWord": "Dover"
+      },
+      {
+        "lineId": "17-3",
+        "lineNum": "3",
+        "text": "Leeches, breeches, wise, precise,",
+        "tokens": [
+          "Leeches",
+          ",",
+          "breeches",
+          ",",
+          "wise",
+          ",",
+          "precise",
+          ","
+        ],
+        "rhymeWord": "precise"
+      },
+      {
+        "lineId": "17-4",
+        "lineNum": "4",
+        "text": "Chalice, but police and lice,",
+        "tokens": [
+          "Chalice",
+          ",",
+          "but",
+          "police",
+          "and",
+          "lice",
+          ","
+        ],
+        "rhymeWord": "lice"
+      }
+    ]
+  },
+  {
+    "stanza": 18,
+    "lines": [
+      {
+        "lineId": "18-1",
+        "lineNum": "1",
+        "text": "Camel, constable, unstable,",
+        "tokens": [
+          "Camel",
+          ",",
+          "constable",
+          ",",
+          "unstable",
+          ","
+        ],
+        "rhymeWord": "unstable"
+      },
+      {
+        "lineId": "18-2",
+        "lineNum": "2",
+        "text": "Principle, disciple, label.",
+        "tokens": [
+          "Principle",
+          ",",
+          "disciple",
+          ",",
+          "label",
+          "."
+        ],
+        "rhymeWord": "label"
+      },
+      {
+        "lineId": "18-3",
+        "lineNum": "3",
+        "text": "Petal, penal, and canal,",
+        "tokens": [
+          "Petal",
+          ",",
+          "penal",
+          ",",
+          "and",
+          "canal",
+          ","
+        ],
+        "rhymeWord": "canal"
+      },
+      {
+        "lineId": "18-4",
+        "lineNum": "4",
+        "text": "Wait, surmise, plait, promise, pal,",
+        "tokens": [
+          "Wait",
+          ",",
+          "surmise",
+          ",",
+          "plait",
+          ",",
+          "promise",
+          ",",
+          "pal",
+          ","
+        ],
+        "rhymeWord": "pal"
+      }
+    ]
+  },
+  {
+    "stanza": 19,
+    "lines": [
+      {
+        "lineId": "19-1",
+        "lineNum": "1",
+        "text": "Muscle, muscular, gaol, iron,",
+        "tokens": [
+          "Muscle",
+          ",",
+          "muscular",
+          ",",
+          "gaol",
+          ",",
+          "iron",
+          ","
+        ],
+        "rhymeWord": "iron"
+      },
+      {
+        "lineId": "19-2",
+        "lineNum": "2",
+        "text": "Timber, climber, bullion, lion,",
+        "tokens": [
+          "Timber",
+          ",",
+          "climber",
+          ",",
+          "bullion",
+          ",",
+          "lion",
+          ","
+        ],
+        "rhymeWord": "lion"
+      },
+      {
+        "lineId": "19-3",
+        "lineNum": "3",
+        "text": "Worm and storm, chaise, chaos, chair,",
+        "tokens": [
+          "Worm",
+          "and",
+          "storm",
+          ",",
+          "chaise",
+          ",",
+          "chaos",
+          ",",
+          "chair",
+          ","
+        ],
+        "rhymeWord": "chair"
+      },
+      {
+        "lineId": "19-4",
+        "lineNum": "4",
+        "text": "Senator, spectator, mayor,",
+        "tokens": [
+          "Senator",
+          ",",
+          "spectator",
+          ",",
+          "mayor",
+          ","
+        ],
+        "rhymeWord": "mayor"
+      }
+    ]
+  },
+  {
+    "stanza": 20,
+    "lines": [
+      {
+        "lineId": "20-1",
+        "lineNum": "1",
+        "text": "Ivy, privy, famous; clamour",
+        "tokens": [
+          "Ivy",
+          ",",
+          "privy",
+          ",",
+          "famous",
+          ";",
+          "clamour"
+        ],
+        "rhymeWord": "clamour"
+      },
+      {
+        "lineId": "20-2",
+        "lineNum": "2",
+        "text": "Has the a of drachm and hammer.",
+        "tokens": [
+          "Has",
+          "the",
+          "a",
+          "of",
+          "drachm",
+          "and",
+          "hammer",
+          "."
+        ],
+        "rhymeWord": "hammer"
+      },
+      {
+        "lineId": "20-3",
+        "lineNum": "3",
+        "text": "Pussy, hussy and possess,",
+        "tokens": [
+          "Pussy",
+          ",",
+          "hussy",
+          "and",
+          "possess",
+          ","
+        ],
+        "rhymeWord": "possess"
+      },
+      {
+        "lineId": "20-4",
+        "lineNum": "4",
+        "text": "Desert, but desert, address.",
+        "tokens": [
+          "Desert",
+          ",",
+          "but",
+          "desert",
+          ",",
+          "address",
+          "."
+        ],
+        "rhymeWord": "address"
+      }
+    ]
+  },
+  {
+    "stanza": 21,
+    "lines": [
+      {
+        "lineId": "21-1",
+        "lineNum": "1",
+        "text": "Golf, wolf, countenance, lieutenants",
+        "tokens": [
+          "Golf",
+          ",",
+          "wolf",
+          ",",
+          "countenance",
+          ",",
+          "lieutenants"
+        ],
+        "rhymeWord": "lieutenants"
+      },
+      {
+        "lineId": "21-2",
+        "lineNum": "2",
+        "text": "Hoist in lieu of flags left pennants.",
+        "tokens": [
+          "Hoist",
+          "in",
+          "lieu",
+          "of",
+          "flags",
+          "left",
+          "pennants",
+          "."
+        ],
+        "rhymeWord": "pennants"
+      },
+      {
+        "lineId": "21-3",
+        "lineNum": "3",
+        "text": "Courier, courtier, tomb, bomb, comb,",
+        "tokens": [
+          "Courier",
+          ",",
+          "courtier",
+          ",",
+          "tomb",
+          ",",
+          "bomb",
+          ",",
+          "comb",
+          ","
+        ],
+        "rhymeWord": "comb"
+      },
+      {
+        "lineId": "21-4",
+        "lineNum": "4",
+        "text": "Cow, but Cowper, some and home.",
+        "tokens": [
+          "Cow",
+          ",",
+          "but",
+          "Cowper",
+          ",",
+          "some",
+          "and",
+          "home",
+          "."
+        ],
+        "rhymeWord": "home"
+      }
+    ]
+  },
+  {
+    "stanza": 22,
+    "lines": [
+      {
+        "lineId": "22-1",
+        "lineNum": "1",
+        "text": "\"Solder, soldier! Blood is thicker\",",
+        "tokens": [
+          "``",
+          "Solder",
+          ",",
+          "soldier",
+          "!",
+          "Blood",
+          "is",
+          "thicker",
+          "''",
+          ","
+        ],
+        "rhymeWord": "thicker"
+      },
+      {
+        "lineId": "22-2",
+        "lineNum": "2",
+        "text": "Quoth he, \"than liqueur or liquor\",",
+        "tokens": [
+          "Quoth",
+          "he",
+          ",",
+          "``",
+          "than",
+          "liqueur",
+          "or",
+          "liquor",
+          "''",
+          ","
+        ],
+        "rhymeWord": "liquor"
+      },
+      {
+        "lineId": "22-3",
+        "lineNum": "3",
+        "text": "Making, it is sad but true,",
+        "tokens": [
+          "Making",
+          ",",
+          "it",
+          "is",
+          "sad",
+          "but",
+          "true",
+          ","
+        ],
+        "rhymeWord": "true"
+      },
+      {
+        "lineId": "22-4",
+        "lineNum": "4",
+        "text": "In bravado, much ado.",
+        "tokens": [
+          "In",
+          "bravado",
+          ",",
+          "much",
+          "ado",
+          "."
+        ],
+        "rhymeWord": "ado"
+      }
+    ]
+  },
+  {
+    "stanza": 23,
+    "lines": [
+      {
+        "lineId": "23-1",
+        "lineNum": "1",
+        "text": "Stranger does not rhyme with anger,",
+        "tokens": [
+          "Stranger",
+          "does",
+          "not",
+          "rhyme",
+          "with",
+          "anger",
+          ","
+        ],
+        "rhymeWord": "anger"
+      },
+      {
+        "lineId": "23-2",
+        "lineNum": "2",
+        "text": "Neither does devour with clangour.",
+        "tokens": [
+          "Neither",
+          "does",
+          "devour",
+          "with",
+          "clangour",
+          "."
+        ],
+        "rhymeWord": "clangour"
+      },
+      {
+        "lineId": "23-3",
+        "lineNum": "3",
+        "text": "Pilot, pivot, gaunt, but aunt,",
+        "tokens": [
+          "Pilot",
+          ",",
+          "pivot",
+          ",",
+          "gaunt",
+          ",",
+          "but",
+          "aunt",
+          ","
+        ],
+        "rhymeWord": "aunt"
+      },
+      {
+        "lineId": "23-4",
+        "lineNum": "4",
+        "text": "Font, front, wont, want, grand and grant.",
+        "tokens": [
+          "Font",
+          ",",
+          "front",
+          ",",
+          "wont",
+          ",",
+          "want",
+          ",",
+          "grand",
+          "and",
+          "grant",
+          "."
+        ],
+        "rhymeWord": "grant"
+      }
+    ]
+  },
+  {
+    "stanza": 24,
+    "lines": [
+      {
+        "lineId": "24-1",
+        "lineNum": "1",
+        "text": "Arsenic, specific, scenic,",
+        "tokens": [
+          "Arsenic",
+          ",",
+          "specific",
+          ",",
+          "scenic",
+          ","
+        ],
+        "rhymeWord": "scenic"
+      },
+      {
+        "lineId": "24-2",
+        "lineNum": "2",
+        "text": "Relic, rhetoric, hygienic.",
+        "tokens": [
+          "Relic",
+          ",",
+          "rhetoric",
+          ",",
+          "hygienic",
+          "."
+        ],
+        "rhymeWord": "hygienic"
+      },
+      {
+        "lineId": "24-3",
+        "lineNum": "3",
+        "text": "Gooseberry, goose, and close, but close,",
+        "tokens": [
+          "Gooseberry",
+          ",",
+          "goose",
+          ",",
+          "and",
+          "close",
+          ",",
+          "but",
+          "close",
+          ","
+        ],
+        "rhymeWord": "close"
+      },
+      {
+        "lineId": "24-4",
+        "lineNum": "4",
+        "text": "Paradise, rise, rose, and dose.",
+        "tokens": [
+          "Paradise",
+          ",",
+          "rise",
+          ",",
+          "rose",
+          ",",
+          "and",
+          "dose",
+          "."
+        ],
+        "rhymeWord": "dose"
+      }
+    ]
+  },
+  {
+    "stanza": 25,
+    "lines": [
+      {
+        "lineId": "25-1",
+        "lineNum": "1",
+        "text": "Say inveigh, neigh, but inveigle,",
+        "tokens": [
+          "Say",
+          "inveigh",
+          ",",
+          "neigh",
+          ",",
+          "but",
+          "inveigle",
+          ","
+        ],
+        "rhymeWord": "inveigle"
+      },
+      {
+        "lineId": "25-2",
+        "lineNum": "2",
+        "text": "Make the latter rhyme with eagle.",
+        "tokens": [
+          "Make",
+          "the",
+          "latter",
+          "rhyme",
+          "with",
+          "eagle",
+          "."
+        ],
+        "rhymeWord": "eagle"
+      },
+      {
+        "lineId": "25-3",
+        "lineNum": "3",
+        "text": "Mind! Meandering but mean,",
+        "tokens": [
+          "Mind",
+          "!",
+          "Meandering",
+          "but",
+          "mean",
+          ","
+        ],
+        "rhymeWord": "mean"
+      },
+      {
+        "lineId": "25-4",
+        "lineNum": "4",
+        "text": "Valentine and magazine.",
+        "tokens": [
+          "Valentine",
+          "and",
+          "magazine",
+          "."
+        ],
+        "rhymeWord": "magazine"
+      }
+    ]
+  },
+  {
+    "stanza": 26,
+    "lines": [
+      {
+        "lineId": "26-1",
+        "lineNum": "1",
+        "text": "And I bet you, dear, a penny,",
+        "tokens": [
+          "And",
+          "I",
+          "bet",
+          "you",
+          ",",
+          "dear",
+          ",",
+          "a",
+          "penny",
+          ","
+        ],
+        "rhymeWord": "penny"
+      },
+      {
+        "lineId": "26-2",
+        "lineNum": "2",
+        "text": "You say mani-(fold) like many,",
+        "tokens": [
+          "You",
+          "say",
+          "mani",
+          "-",
+          "(",
+          "fold",
+          ")",
+          "like",
+          "many",
+          ","
+        ],
+        "rhymeWord": "many"
+      },
+      {
+        "lineId": "26-3",
+        "lineNum": "3",
+        "text": "Which is wrong. Say rapier, pier,",
+        "tokens": [
+          "Which",
+          "is",
+          "wrong",
+          ".",
+          "Say",
+          "rapier",
+          ",",
+          "pier",
+          ","
+        ],
+        "rhymeWord": "pier"
+      },
+      {
+        "lineId": "26-4",
+        "lineNum": "4",
+        "text": "Tier (one who ties), but tier.",
+        "tokens": [
+          "Tier",
+          "(",
+          "one",
+          "who",
+          "ties",
+          ")",
+          ",",
+          "but",
+          "tier",
+          "."
+        ],
+        "rhymeWord": "tier"
+      }
+    ]
+  },
+  {
+    "stanza": 27,
+    "lines": [
+      {
+        "lineId": "27-1",
+        "lineNum": "1",
+        "text": "Say in sounds correct and sterling",
+        "tokens": [
+          "Say",
+          "in",
+          "sounds",
+          "correct",
+          "and",
+          "sterling"
+        ],
+        "rhymeWord": "sterling"
+      },
+      {
+        "lineId": "27-2",
+        "lineNum": "2",
+        "text": "Hearse, hear, hearken, year and yearling.",
+        "tokens": [
+          "Hearse",
+          ",",
+          "hear",
+          ",",
+          "hearken",
+          ",",
+          "year",
+          "and",
+          "yearling",
+          "."
+        ],
+        "rhymeWord": "yearling"
+      },
+      {
+        "lineId": "27-3",
+        "lineNum": "3",
+        "text": "Evil, devil, mezzotint,",
+        "tokens": [
+          "Evil",
+          ",",
+          "devil",
+          ",",
+          "mezzotint",
+          ","
+        ],
+        "rhymeWord": "mezzotint"
+      },
+      {
+        "lineId": "27-4",
+        "lineNum": "4",
+        "text": "Mind the z! (A gentle hint.)",
+        "tokens": [
+          "Mind",
+          "the",
+          "z",
+          "!",
+          "(",
+          "A",
+          "gentle",
+          "hint",
+          ".",
+          ")"
+        ],
+        "rhymeWord": "hint"
+      }
+    ]
+  },
+  {
+    "stanza": 28,
+    "lines": [
+      {
+        "lineId": "28-1",
+        "lineNum": "1",
+        "text": "Now you need not pay attention",
+        "tokens": [
+          "Now",
+          "you",
+          "need",
+          "not",
+          "pay",
+          "attention"
+        ],
+        "rhymeWord": "attention"
+      },
+      {
+        "lineId": "28-2",
+        "lineNum": "2",
+        "text": "To such sounds as I don't mention,",
+        "tokens": [
+          "To",
+          "such",
+          "sounds",
+          "as",
+          "I",
+          "do",
+          "n't",
+          "mention",
+          ","
+        ],
+        "rhymeWord": "mention"
+      },
+      {
+        "lineId": "28-3",
+        "lineNum": "3",
+        "text": "Sounds like pores, pause, pours and paws,",
+        "tokens": [
+          "Sounds",
+          "like",
+          "pores",
+          ",",
+          "pause",
+          ",",
+          "pours",
+          "and",
+          "paws",
+          ","
+        ],
+        "rhymeWord": "paws"
+      },
+      {
+        "lineId": "28-4",
+        "lineNum": "4",
+        "text": "Rhyming with the pronoun yours;",
+        "tokens": [
+          "Rhyming",
+          "with",
+          "the",
+          "pronoun",
+          "yours",
+          ";"
+        ],
+        "rhymeWord": "yours"
+      }
+    ]
+  },
+  {
+    "stanza": 29,
+    "lines": [
+      {
+        "lineId": "29-1",
+        "lineNum": "1",
+        "text": "Nor are proper names included,",
+        "tokens": [
+          "Nor",
+          "are",
+          "proper",
+          "names",
+          "included",
+          ","
+        ],
+        "rhymeWord": "included"
+      },
+      {
+        "lineId": "29-2",
+        "lineNum": "2",
+        "text": "Though I often heard, as you did,",
+        "tokens": [
+          "Though",
+          "I",
+          "often",
+          "heard",
+          ",",
+          "as",
+          "you",
+          "did",
+          ","
+        ],
+        "rhymeWord": "did"
+      },
+      {
+        "lineId": "29-3",
+        "lineNum": "3",
+        "text": "Funny rhymes to unicorn,",
+        "tokens": [
+          "Funny",
+          "rhymes",
+          "to",
+          "unicorn",
+          ","
+        ],
+        "rhymeWord": "unicorn"
+      },
+      {
+        "lineId": "29-4",
+        "lineNum": "4",
+        "text": "Yes, you know them, Vaughan and Strachan.",
+        "tokens": [
+          "Yes",
+          ",",
+          "you",
+          "know",
+          "them",
+          ",",
+          "Vaughan",
+          "and",
+          "Strachan",
+          "."
+        ],
+        "rhymeWord": "Strachan"
+      }
+    ]
+  },
+  {
+    "stanza": 30,
+    "lines": [
+      {
+        "lineId": "30-1",
+        "lineNum": "1",
+        "text": "No, my maiden, coy and comely,",
+        "tokens": [
+          "No",
+          ",",
+          "my",
+          "maiden",
+          ",",
+          "coy",
+          "and",
+          "comely",
+          ","
+        ],
+        "rhymeWord": "comely"
+      },
+      {
+        "lineId": "30-2",
+        "lineNum": "2",
+        "text": "I don't want to speak of Cholmondeley.",
+        "tokens": [
+          "I",
+          "do",
+          "n't",
+          "want",
+          "to",
+          "speak",
+          "of",
+          "Cholmondeley",
+          "."
+        ],
+        "rhymeWord": "Cholmondeley"
+      },
+      {
+        "lineId": "30-3",
+        "lineNum": "3",
+        "text": "No. Yet Froude compared with proud",
+        "tokens": [
+          "No",
+          ".",
+          "Yet",
+          "Froude",
+          "compared",
+          "with",
+          "proud"
+        ],
+        "rhymeWord": "proud"
+      },
+      {
+        "lineId": "30-4",
+        "lineNum": "4",
+        "text": "Is no better than McLeod.",
+        "tokens": [
+          "Is",
+          "no",
+          "better",
+          "than",
+          "McLeod",
+          "."
+        ],
+        "rhymeWord": "McLeod"
+      }
+    ]
+  },
+  {
+    "stanza": 31,
+    "lines": [
+      {
+        "lineId": "31-1",
+        "lineNum": "1",
+        "text": "But mind trivial and vial,",
+        "tokens": [
+          "But",
+          "mind",
+          "trivial",
+          "and",
+          "vial",
+          ","
+        ],
+        "rhymeWord": "vial"
+      },
+      {
+        "lineId": "31-2",
+        "lineNum": "2",
+        "text": "Tripod, menial, denial,",
+        "tokens": [
+          "Tripod",
+          ",",
+          "menial",
+          ",",
+          "denial",
+          ","
+        ],
+        "rhymeWord": "denial"
+      },
+      {
+        "lineId": "31-3",
+        "lineNum": "3",
+        "text": "Troll and trolley, realm and ream,",
+        "tokens": [
+          "Troll",
+          "and",
+          "trolley",
+          ",",
+          "realm",
+          "and",
+          "ream",
+          ","
+        ],
+        "rhymeWord": "ream"
+      },
+      {
+        "lineId": "31-4",
+        "lineNum": "4",
+        "text": "Schedule, mischief, schism, and scheme.",
+        "tokens": [
+          "Schedule",
+          ",",
+          "mischief",
+          ",",
+          "schism",
+          ",",
+          "and",
+          "scheme",
+          "."
+        ],
+        "rhymeWord": "scheme"
+      }
+    ]
+  },
+  {
+    "stanza": 32,
+    "lines": [
+      {
+        "lineId": "32-1",
+        "lineNum": "1",
+        "text": "Argil, gill, Argyll, gill. Surely",
+        "tokens": [
+          "Argil",
+          ",",
+          "gill",
+          ",",
+          "Argyll",
+          ",",
+          "gill",
+          ".",
+          "Surely"
+        ],
+        "rhymeWord": "Surely"
+      },
+      {
+        "lineId": "32-2",
+        "lineNum": "2",
+        "text": "May be made to rhyme with Raleigh,",
+        "tokens": [
+          "May",
+          "be",
+          "made",
+          "to",
+          "rhyme",
+          "with",
+          "Raleigh",
+          ","
+        ],
+        "rhymeWord": "Raleigh"
+      },
+      {
+        "lineId": "32-3",
+        "lineNum": "3",
+        "text": "But you're not supposed to say",
+        "tokens": [
+          "But",
+          "you",
+          "'re",
+          "not",
+          "supposed",
+          "to",
+          "say"
+        ],
+        "rhymeWord": "say"
+      },
+      {
+        "lineId": "32-4",
+        "lineNum": "4",
+        "text": "Piquet rhymes with sobriquet.",
+        "tokens": [
+          "Piquet",
+          "rhymes",
+          "with",
+          "sobriquet",
+          "."
+        ],
+        "rhymeWord": "sobriquet"
+      }
+    ]
+  },
+  {
+    "stanza": 33,
+    "lines": [
+      {
+        "lineId": "33-1",
+        "lineNum": "1",
+        "text": "Had this invalid invalid",
+        "tokens": [
+          "Had",
+          "this",
+          "invalid",
+          "invalid"
+        ],
+        "rhymeWord": "invalid"
+      },
+      {
+        "lineId": "33-2",
+        "lineNum": "2",
+        "text": "Worthless documents? How pallid,",
+        "tokens": [
+          "Worthless",
+          "documents",
+          "?",
+          "How",
+          "pallid",
+          ","
+        ],
+        "rhymeWord": "pallid"
+      },
+      {
+        "lineId": "33-3",
+        "lineNum": "3",
+        "text": "How uncouth he, couchant, looked,",
+        "tokens": [
+          "How",
+          "uncouth",
+          "he",
+          ",",
+          "couchant",
+          ",",
+          "looked",
+          ","
+        ],
+        "rhymeWord": "looked"
+      },
+      {
+        "lineId": "33-4",
+        "lineNum": "4",
+        "text": "When for Portsmouth I had booked!",
+        "tokens": [
+          "When",
+          "for",
+          "Portsmouth",
+          "I",
+          "had",
+          "booked",
+          "!"
+        ],
+        "rhymeWord": "booked"
+      }
+    ]
+  },
+  {
+    "stanza": 34,
+    "lines": [
+      {
+        "lineId": "34-1",
+        "lineNum": "1",
+        "text": "Zeus, Thebes, Thales, Aphrodite,",
+        "tokens": [
+          "Zeus",
+          ",",
+          "Thebes",
+          ",",
+          "Thales",
+          ",",
+          "Aphrodite",
+          ","
+        ],
+        "rhymeWord": "Aphrodite"
+      },
+      {
+        "lineId": "34-2",
+        "lineNum": "2",
+        "text": "Paramour, enamoured, flighty,",
+        "tokens": [
+          "Paramour",
+          ",",
+          "enamoured",
+          ",",
+          "flighty",
+          ","
+        ],
+        "rhymeWord": "flighty"
+      },
+      {
+        "lineId": "34-3",
+        "lineNum": "3",
+        "text": "Episodes, antipodes,",
+        "tokens": [
+          "Episodes",
+          ",",
+          "antipodes",
+          ","
+        ],
+        "rhymeWord": "antipodes"
+      },
+      {
+        "lineId": "34-4",
+        "lineNum": "4",
+        "text": "Acquiesce, and obsequies.",
+        "tokens": [
+          "Acquiesce",
+          ",",
+          "and",
+          "obsequies",
+          "."
+        ],
+        "rhymeWord": "obsequies"
+      }
+    ]
+  },
+  {
+    "stanza": 35,
+    "lines": [
+      {
+        "lineId": "35-1",
+        "lineNum": "1",
+        "text": "Please don't monkey with the geyser,",
+        "tokens": [
+          "Please",
+          "do",
+          "n't",
+          "monkey",
+          "with",
+          "the",
+          "geyser",
+          ","
+        ],
+        "rhymeWord": "geyser"
+      },
+      {
+        "lineId": "35-2",
+        "lineNum": "2",
+        "text": "Don't peel 'taters with my razor,",
+        "tokens": [
+          "Do",
+          "n't",
+          "peel",
+          "'taters",
+          "with",
+          "my",
+          "razor",
+          ","
+        ],
+        "rhymeWord": "razor"
+      },
+      {
+        "lineId": "35-3",
+        "lineNum": "3",
+        "text": "Rather say in accents pure:",
+        "tokens": [
+          "Rather",
+          "say",
+          "in",
+          "accents",
+          "pure",
+          ":"
+        ],
+        "rhymeWord": "pure"
+      },
+      {
+        "lineId": "35-4",
+        "lineNum": "4",
+        "text": "Nature, stature and mature.",
+        "tokens": [
+          "Nature",
+          ",",
+          "stature",
+          "and",
+          "mature",
+          "."
+        ],
+        "rhymeWord": "mature"
+      }
+    ]
+  },
+  {
+    "stanza": 36,
+    "lines": [
+      {
+        "lineId": "36-1",
+        "lineNum": "1",
+        "text": "Pious, impious, limb, climb, glumly,",
+        "tokens": [
+          "Pious",
+          ",",
+          "impious",
+          ",",
+          "limb",
+          ",",
+          "climb",
+          ",",
+          "glumly",
+          ","
+        ],
+        "rhymeWord": "glumly"
+      },
+      {
+        "lineId": "36-2",
+        "lineNum": "2",
+        "text": "Worsted, worsted, crumbly, dumbly,",
+        "tokens": [
+          "Worsted",
+          ",",
+          "worsted",
+          ",",
+          "crumbly",
+          ",",
+          "dumbly",
+          ","
+        ],
+        "rhymeWord": "dumbly"
+      },
+      {
+        "lineId": "36-3",
+        "lineNum": "3",
+        "text": "Conquer, conquest, vase, phase, fan,",
+        "tokens": [
+          "Conquer",
+          ",",
+          "conquest",
+          ",",
+          "vase",
+          ",",
+          "phase",
+          ",",
+          "fan",
+          ","
+        ],
+        "rhymeWord": "fan"
+      },
+      {
+        "lineId": "36-4",
+        "lineNum": "4",
+        "text": "Wan, sedan and artisan.",
+        "tokens": [
+          "Wan",
+          ",",
+          "sedan",
+          "and",
+          "artisan",
+          "."
+        ],
+        "rhymeWord": "artisan"
+      }
+    ]
+  },
+  {
+    "stanza": 37,
+    "lines": [
+      {
+        "lineId": "37-1",
+        "lineNum": "1",
+        "text": "Shoes, goes, does *. Now first say: finger;",
+        "tokens": [
+          "Shoes",
+          ",",
+          "goes",
+          ",",
+          "does",
+          "*",
+          ".",
+          "Now",
+          "first",
+          "say",
+          ":",
+          "finger",
+          ";"
+        ],
+        "rhymeWord": "finger"
+      },
+      {
+        "lineId": "37-2",
+        "lineNum": "2",
+        "text": "Then say: singer, ginger, linger.",
+        "tokens": [
+          "Then",
+          "say",
+          ":",
+          "singer",
+          ",",
+          "ginger",
+          ",",
+          "linger",
+          "."
+        ],
+        "rhymeWord": "linger"
+      },
+      {
+        "lineId": "37-3",
+        "lineNum": "3",
+        "text": "Real, zeal, mauve, gauze and gauge,",
+        "tokens": [
+          "Real",
+          ",",
+          "zeal",
+          ",",
+          "mauve",
+          ",",
+          "gauze",
+          "and",
+          "gauge",
+          ","
+        ],
+        "rhymeWord": "gauge"
+      },
+      {
+        "lineId": "37-4",
+        "lineNum": "4",
+        "text": "Marriage, foliage, mirage, age,",
+        "tokens": [
+          "Marriage",
+          ",",
+          "foliage",
+          ",",
+          "mirage",
+          ",",
+          "age",
+          ","
+        ],
+        "rhymeWord": "age"
+      }
+    ]
+  },
+  {
+    "stanza": 38,
+    "lines": [
+      {
+        "lineId": "38-1",
+        "lineNum": "1",
+        "text": "Hero, heron, query, very,",
+        "tokens": [
+          "Hero",
+          ",",
+          "heron",
+          ",",
+          "query",
+          ",",
+          "very",
+          ","
+        ],
+        "rhymeWord": "very"
+      },
+      {
+        "lineId": "38-2",
+        "lineNum": "2",
+        "text": "Parry, tarry fury, bury,",
+        "tokens": [
+          "Parry",
+          ",",
+          "tarry",
+          "fury",
+          ",",
+          "bury",
+          ","
+        ],
+        "rhymeWord": "bury"
+      },
+      {
+        "lineId": "38-3",
+        "lineNum": "3",
+        "text": "Dost, lost, post, and doth, cloth, loth,",
+        "tokens": [
+          "Dost",
+          ",",
+          "lost",
+          ",",
+          "post",
+          ",",
+          "and",
+          "doth",
+          ",",
+          "cloth",
+          ",",
+          "loth",
+          ","
+        ],
+        "rhymeWord": "loth"
+      },
+      {
+        "lineId": "38-4",
+        "lineNum": "4",
+        "text": "Job, Job, blossom, bosom, oath.",
+        "tokens": [
+          "Job",
+          ",",
+          "Job",
+          ",",
+          "blossom",
+          ",",
+          "bosom",
+          ",",
+          "oath",
+          "."
+        ],
+        "rhymeWord": "oath"
+      }
+    ]
+  },
+  {
+    "stanza": 39,
+    "lines": [
+      {
+        "lineId": "39-1",
+        "lineNum": "1",
+        "text": "Compare alien with Italian,",
+        "tokens": [
+          "Compare",
+          "alien",
+          "with",
+          "Italian",
+          ","
+        ],
+        "rhymeWord": "Italian"
+      },
+      {
+        "lineId": "39-2",
+        "lineNum": "2",
+        "text": "Dandelion with battalion,",
+        "tokens": [
+          "Dandelion",
+          "with",
+          "battalion",
+          ","
+        ],
+        "rhymeWord": "battalion"
+      },
+      {
+        "lineId": "39-3",
+        "lineNum": "3",
+        "text": "Rally with ally; yea, ye,",
+        "tokens": [
+          "Rally",
+          "with",
+          "ally",
+          ";",
+          "yea",
+          ",",
+          "ye",
+          ","
+        ],
+        "rhymeWord": "ye"
+      },
+      {
+        "lineId": "39-4",
+        "lineNum": "4",
+        "text": "Eye, I, ay, aye, whey, key, quay!",
+        "tokens": [
+          "Eye",
+          ",",
+          "I",
+          ",",
+          "ay",
+          ",",
+          "aye",
+          ",",
+          "whey",
+          ",",
+          "key",
+          ",",
+          "quay",
+          "!"
+        ],
+        "rhymeWord": "quay"
+      }
+    ]
+  },
+  {
+    "stanza": 40,
+    "lines": [
+      {
+        "lineId": "40-1",
+        "lineNum": "1",
+        "text": "Say aver, but ever, fever,",
+        "tokens": [
+          "Say",
+          "aver",
+          ",",
+          "but",
+          "ever",
+          ",",
+          "fever",
+          ","
+        ],
+        "rhymeWord": "fever"
+      },
+      {
+        "lineId": "40-2",
+        "lineNum": "2",
+        "text": "Neither, leisure, skein, receiver.",
+        "tokens": [
+          "Neither",
+          ",",
+          "leisure",
+          ",",
+          "skein",
+          ",",
+          "receiver",
+          "."
+        ],
+        "rhymeWord": "receiver"
+      },
+      {
+        "lineId": "40-3",
+        "lineNum": "3",
+        "text": "Never guess-it is not safe,",
+        "tokens": [
+          "Never",
+          "guess",
+          "-",
+          "it",
+          "is",
+          "not",
+          "safe",
+          ","
+        ],
+        "rhymeWord": "safe"
+      },
+      {
+        "lineId": "40-4",
+        "lineNum": "4",
+        "text": "We say calves, valves, half, but Ralf.",
+        "tokens": [
+          "We",
+          "say",
+          "calves",
+          ",",
+          "valves",
+          ",",
+          "half",
+          ",",
+          "but",
+          "Ralf",
+          "."
+        ],
+        "rhymeWord": "Ralf"
+      }
+    ]
+  },
+  {
+    "stanza": 41,
+    "lines": [
+      {
+        "lineId": "41-1",
+        "lineNum": "1",
+        "text": "Starry, granary, canary,",
+        "tokens": [
+          "Starry",
+          ",",
+          "granary",
+          ",",
+          "canary",
+          ","
+        ],
+        "rhymeWord": "canary"
+      },
+      {
+        "lineId": "41-2",
+        "lineNum": "2",
+        "text": "Crevice, but device, and eyrie,",
+        "tokens": [
+          "Crevice",
+          ",",
+          "but",
+          "device",
+          ",",
+          "and",
+          "eyrie",
+          ","
+        ],
+        "rhymeWord": "eyrie"
+      },
+      {
+        "lineId": "41-3",
+        "lineNum": "3",
+        "text": "Face, but preface, then grimace,",
+        "tokens": [
+          "Face",
+          ",",
+          "but",
+          "preface",
+          ",",
+          "then",
+          "grimace",
+          ","
+        ],
+        "rhymeWord": "grimace"
+      },
+      {
+        "lineId": "41-4",
+        "lineNum": "4",
+        "text": "Phlegm, phlegmatic, ass, glass, bass.",
+        "tokens": [
+          "Phlegm",
+          ",",
+          "phlegmatic",
+          ",",
+          "ass",
+          ",",
+          "glass",
+          ",",
+          "bass",
+          "."
+        ],
+        "rhymeWord": "bass"
+      }
+    ]
+  },
+  {
+    "stanza": 42,
+    "lines": [
+      {
+        "lineId": "42-1",
+        "lineNum": "1",
+        "text": "Bass, large, target, gin, give, verging,",
+        "tokens": [
+          "Bass",
+          ",",
+          "large",
+          ",",
+          "target",
+          ",",
+          "gin",
+          ",",
+          "give",
+          ",",
+          "verging",
+          ","
+        ],
+        "rhymeWord": "verging"
+      },
+      {
+        "lineId": "42-2",
+        "lineNum": "2",
+        "text": "Ought, oust, joust, and scour, but scourging;",
+        "tokens": [
+          "Ought",
+          ",",
+          "oust",
+          ",",
+          "joust",
+          ",",
+          "and",
+          "scour",
+          ",",
+          "but",
+          "scourging",
+          ";"
+        ],
+        "rhymeWord": "scourging"
+      },
+      {
+        "lineId": "42-3",
+        "lineNum": "3",
+        "text": "Ear, but earn; and ere and tear",
+        "tokens": [
+          "Ear",
+          ",",
+          "but",
+          "earn",
+          ";",
+          "and",
+          "ere",
+          "and",
+          "tear"
+        ],
+        "rhymeWord": "tear"
+      },
+      {
+        "lineId": "42-4",
+        "lineNum": "4",
+        "text": "Do not rhyme with here but heir.",
+        "tokens": [
+          "Do",
+          "not",
+          "rhyme",
+          "with",
+          "here",
+          "but",
+          "heir",
+          "."
+        ],
+        "rhymeWord": "heir"
+      }
+    ]
+  },
+  {
+    "stanza": 43,
+    "lines": [
+      {
+        "lineId": "43-1",
+        "lineNum": "1",
+        "text": "Mind the o of off and often",
+        "tokens": [
+          "Mind",
+          "the",
+          "o",
+          "of",
+          "off",
+          "and",
+          "often"
+        ],
+        "rhymeWord": "often"
+      },
+      {
+        "lineId": "43-2",
+        "lineNum": "2",
+        "text": "Which may be pronounced as orphan,",
+        "tokens": [
+          "Which",
+          "may",
+          "be",
+          "pronounced",
+          "as",
+          "orphan",
+          ","
+        ],
+        "rhymeWord": "orphan"
+      },
+      {
+        "lineId": "43-3",
+        "lineNum": "3",
+        "text": "With the sound of saw and sauce;",
+        "tokens": [
+          "With",
+          "the",
+          "sound",
+          "of",
+          "saw",
+          "and",
+          "sauce",
+          ";"
+        ],
+        "rhymeWord": "sauce"
+      },
+      {
+        "lineId": "43-4",
+        "lineNum": "4",
+        "text": "Also soft, lost, cloth and cross.",
+        "tokens": [
+          "Also",
+          "soft",
+          ",",
+          "lost",
+          ",",
+          "cloth",
+          "and",
+          "cross",
+          "."
+        ],
+        "rhymeWord": "cross"
+      }
+    ]
+  },
+  {
+    "stanza": 44,
+    "lines": [
+      {
+        "lineId": "44-1",
+        "lineNum": "1",
+        "text": "Pudding, puddle, putting. Putting?",
+        "tokens": [
+          "Pudding",
+          ",",
+          "puddle",
+          ",",
+          "putting",
+          ".",
+          "Putting",
+          "?"
+        ],
+        "rhymeWord": "Putting"
+      },
+      {
+        "lineId": "44-2",
+        "lineNum": "2",
+        "text": "Yes: at golf it rhymes with shutting.",
+        "tokens": [
+          "Yes",
+          ":",
+          "at",
+          "golf",
+          "it",
+          "rhymes",
+          "with",
+          "shutting",
+          "."
+        ],
+        "rhymeWord": "shutting"
+      },
+      {
+        "lineId": "44-3",
+        "lineNum": "3",
+        "text": "Respite, spite, consent, resent.",
+        "tokens": [
+          "Respite",
+          ",",
+          "spite",
+          ",",
+          "consent",
+          ",",
+          "resent",
+          "."
+        ],
+        "rhymeWord": "resent"
+      },
+      {
+        "lineId": "44-4",
+        "lineNum": "4",
+        "text": "Liable, but Parliament.",
+        "tokens": [
+          "Liable",
+          ",",
+          "but",
+          "Parliament",
+          "."
+        ],
+        "rhymeWord": "Parliament"
+      }
+    ]
+  },
+  {
+    "stanza": 45,
+    "lines": [
+      {
+        "lineId": "45-1",
+        "lineNum": "1",
+        "text": "Seven is right, but so is even,",
+        "tokens": [
+          "Seven",
+          "is",
+          "right",
+          ",",
+          "but",
+          "so",
+          "is",
+          "even",
+          ","
+        ],
+        "rhymeWord": "even"
+      },
+      {
+        "lineId": "45-2",
+        "lineNum": "2",
+        "text": "Hyphen, roughen, nephew, Stephen,",
+        "tokens": [
+          "Hyphen",
+          ",",
+          "roughen",
+          ",",
+          "nephew",
+          ",",
+          "Stephen",
+          ","
+        ],
+        "rhymeWord": "Stephen"
+      },
+      {
+        "lineId": "45-3",
+        "lineNum": "3",
+        "text": "Monkey, donkey, clerk and jerk,",
+        "tokens": [
+          "Monkey",
+          ",",
+          "donkey",
+          ",",
+          "clerk",
+          "and",
+          "jerk",
+          ","
+        ],
+        "rhymeWord": "jerk"
+      },
+      {
+        "lineId": "45-4",
+        "lineNum": "4",
+        "text": "Asp, grasp, wasp, demesne, cork, work.",
+        "tokens": [
+          "Asp",
+          ",",
+          "grasp",
+          ",",
+          "wasp",
+          ",",
+          "demesne",
+          ",",
+          "cork",
+          ",",
+          "work",
+          "."
+        ],
+        "rhymeWord": "work"
+      }
+    ]
+  },
+  {
+    "stanza": 46,
+    "lines": [
+      {
+        "lineId": "46-1",
+        "lineNum": "1",
+        "text": "A of valour, vapid vapour,",
+        "tokens": [
+          "A",
+          "of",
+          "valour",
+          ",",
+          "vapid",
+          "vapour",
+          ","
+        ],
+        "rhymeWord": "vapour"
+      },
+      {
+        "lineId": "46-2",
+        "lineNum": "2",
+        "text": "S of news (compare newspaper),",
+        "tokens": [
+          "S",
+          "of",
+          "news",
+          "(",
+          "compare",
+          "newspaper",
+          ")",
+          ","
+        ],
+        "rhymeWord": "newspaper"
+      },
+      {
+        "lineId": "46-3",
+        "lineNum": "3",
+        "text": "G of gibbet, gibbon, gist,",
+        "tokens": [
+          "G",
+          "of",
+          "gibbet",
+          ",",
+          "gibbon",
+          ",",
+          "gist",
+          ","
+        ],
+        "rhymeWord": "gist"
+      },
+      {
+        "lineId": "46-4",
+        "lineNum": "4",
+        "text": "I of antichrist and grist,",
+        "tokens": [
+          "I",
+          "of",
+          "antichrist",
+          "and",
+          "grist",
+          ","
+        ],
+        "rhymeWord": "grist"
+      }
+    ]
+  },
+  {
+    "stanza": 47,
+    "lines": [
+      {
+        "lineId": "47-1",
+        "lineNum": "1",
+        "text": "Differ like diverse and divers,",
+        "tokens": [
+          "Differ",
+          "like",
+          "diverse",
+          "and",
+          "divers",
+          ","
+        ],
+        "rhymeWord": "divers"
+      },
+      {
+        "lineId": "47-2",
+        "lineNum": "2",
+        "text": "Rivers, strivers, shivers, fivers.",
+        "tokens": [
+          "Rivers",
+          ",",
+          "strivers",
+          ",",
+          "shivers",
+          ",",
+          "fivers",
+          "."
+        ],
+        "rhymeWord": "fivers"
+      },
+      {
+        "lineId": "47-3",
+        "lineNum": "3",
+        "text": "Once, but nonce, toll, doll, but roll,",
+        "tokens": [
+          "Once",
+          ",",
+          "but",
+          "nonce",
+          ",",
+          "toll",
+          ",",
+          "doll",
+          ",",
+          "but",
+          "roll",
+          ","
+        ],
+        "rhymeWord": "roll"
+      },
+      {
+        "lineId": "47-4",
+        "lineNum": "4",
+        "text": "Polish, Polish, poll and poll.",
+        "tokens": [
+          "Polish",
+          ",",
+          "Polish",
+          ",",
+          "poll",
+          "and",
+          "poll",
+          "."
+        ],
+        "rhymeWord": "poll"
+      }
+    ]
+  },
+  {
+    "stanza": 48,
+    "lines": [
+      {
+        "lineId": "48-1",
+        "lineNum": "1",
+        "text": "Pronunciation-think of Psyche!-",
+        "tokens": [
+          "Pronunciation",
+          "-",
+          "think",
+          "of",
+          "Psyche",
+          "!",
+          "-"
+        ],
+        "rhymeWord": "Psyche"
+      },
+      {
+        "lineId": "48-2",
+        "lineNum": "2",
+        "text": "Is a paling, stout and spiky.",
+        "tokens": [
+          "Is",
+          "a",
+          "paling",
+          ",",
+          "stout",
+          "and",
+          "spiky",
+          "."
+        ],
+        "rhymeWord": "spiky"
+      },
+      {
+        "lineId": "48-3",
+        "lineNum": "3",
+        "text": "Won't it make you lose your wits",
+        "tokens": [
+          "Wo",
+          "n't",
+          "it",
+          "make",
+          "you",
+          "lose",
+          "your",
+          "wits"
+        ],
+        "rhymeWord": "wits"
+      },
+      {
+        "lineId": "48-4",
+        "lineNum": "4",
+        "text": "Writing groats and saying \"grits\"?",
+        "tokens": [
+          "Writing",
+          "groats",
+          "and",
+          "saying",
+          "``",
+          "grits",
+          "''",
+          "?"
+        ],
+        "rhymeWord": "grits"
+      }
+    ]
+  },
+  {
+    "stanza": 49,
+    "lines": [
+      {
+        "lineId": "49-1",
+        "lineNum": "1",
+        "text": "It's a dark abyss or tunnel",
+        "tokens": [
+          "It",
+          "'s",
+          "a",
+          "dark",
+          "abyss",
+          "or",
+          "tunnel"
+        ],
+        "rhymeWord": "tunnel"
+      },
+      {
+        "lineId": "49-2",
+        "lineNum": "2",
+        "text": "Strewn with stones like rowlock, gunwale,",
+        "tokens": [
+          "Strewn",
+          "with",
+          "stones",
+          "like",
+          "rowlock",
+          ",",
+          "gunwale",
+          ","
+        ],
+        "rhymeWord": "gunwale"
+      },
+      {
+        "lineId": "49-3",
+        "lineNum": "3",
+        "text": "Islington, and Isle of Wight,",
+        "tokens": [
+          "Islington",
+          ",",
+          "and",
+          "Isle",
+          "of",
+          "Wight",
+          ","
+        ],
+        "rhymeWord": "Wight"
+      },
+      {
+        "lineId": "49-4",
+        "lineNum": "4",
+        "text": "Housewife, verdict and indict.",
+        "tokens": [
+          "Housewife",
+          ",",
+          "verdict",
+          "and",
+          "indict",
+          "."
+        ],
+        "rhymeWord": "indict"
+      }
+    ]
+  },
+  {
+    "stanza": 50,
+    "lines": [
+      {
+        "lineId": "50-1",
+        "lineNum": "1",
+        "text": "Don't you think so, reader, rather,",
+        "tokens": [
+          "Do",
+          "n't",
+          "you",
+          "think",
+          "so",
+          ",",
+          "reader",
+          ",",
+          "rather",
+          ","
+        ],
+        "rhymeWord": "rather"
+      },
+      {
+        "lineId": "50-2",
+        "lineNum": "2",
+        "text": "Saying lather, bather, father?",
+        "tokens": [
+          "Saying",
+          "lather",
+          ",",
+          "bather",
+          ",",
+          "father",
+          "?"
+        ],
+        "rhymeWord": "father"
+      },
+      {
+        "lineId": "50-3",
+        "lineNum": "3",
+        "text": "Finally, which rhymes with enough,",
+        "tokens": [
+          "Finally",
+          ",",
+          "which",
+          "rhymes",
+          "with",
+          "enough",
+          ","
+        ],
+        "rhymeWord": "enough"
+      },
+      {
+        "lineId": "50-4",
+        "lineNum": "4",
+        "text": "Though, through, bough, cough, hough, sough, tough??",
+        "tokens": [
+          "Though",
+          ",",
+          "through",
+          ",",
+          "bough",
+          ",",
+          "cough",
+          ",",
+          "hough",
+          ",",
+          "sough",
+          ",",
+          "tough",
+          "?",
+          "?"
+        ],
+        "rhymeWord": "tough"
+      }
+    ]
+  }
+]
