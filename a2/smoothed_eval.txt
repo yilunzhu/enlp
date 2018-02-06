@@ -1,4 +1,0 @@
-The probability of sentence 1 is: 1.196908e-45
-The perplexity of sentence 1 is: 4.610792e+01 
-The probability of sentence 2 is: 4.914438e-77
-The perplexity of sentence 2 is: 4.963009e+01 
